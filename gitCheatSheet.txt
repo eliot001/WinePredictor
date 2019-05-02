@@ -1,0 +1,18 @@
+An easy git command cheat sheet for use in bash terminal
+
+# show status
+$git status
+
+# checkout new branch
+$git checkout -b <branch>
+
+# add all files to local repository branch to be tracked
+$git add --all
+
+# commit files to branch on github
+$git commit -m "Commit comment here"
+
+# upload changes to branch on github 
+$git push -u origin <branch>
+
+Then create a pull request/merge on github
