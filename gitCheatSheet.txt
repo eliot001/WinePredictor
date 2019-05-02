@@ -1,4 +1,6 @@
 An easy git command cheat sheet for use in bash terminal
+# clone repo to local machine
+$git clone "url from clone or download link"
 
 # show status
 $git status
@@ -12,7 +14,7 @@ $git add --all
 # commit files to branch on github
 $git commit -m "Commit comment here"
 
-# upload changes to branch on github 
+# upload changes to branch on github
 $git push -u origin <branch>
 
 Then create a pull request/merge on github
